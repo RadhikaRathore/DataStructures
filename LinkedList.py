@@ -1,5 +1,4 @@
-"""The LinkedList code from before is provided below.
-Add three functions to the LinkedList.
+""" LinkedList Implementation
 "get_position" returns the element at a certain position.
 The "insert" function will add an element to a particular
 spot in the list.
